@@ -1,1 +1,1 @@
-This is a test that change README.md in git submodule
+This is second test that change README.md in git submodule
